@@ -1,10 +1,14 @@
 ![화면 기록 2025-06-02 오후 3 21 28 (1)](https://github.com/user-attachments/assets/4d7cc381-9f5f-4fd4-beea-5805ddf83d9d)
 
-# 🔭 I’m currently working on
+<div align="center">
+
+### 🔭 I’m currently working on
 [![YoungMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyougmin&show_icons=true&theme=radical)](https://github.com/kimyougmin/github-readme-stats)
 
-# 💪 I’m currently Top Languages
+### 💪 I’m currently Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyougmin&layout=compact&theme=dracula)
+
+</div>
 <!--
 **kimyougmin/kimyougmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
