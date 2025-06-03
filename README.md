@@ -23,6 +23,12 @@
     <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=D24939&labelColor=f9f9f9" />
     <img src="https://img.shields.io/badge/jest-C21325.svg?style=flat-square&logo=jest&logoColor=C21325&labelColor=f9f9f9" />
     <img src="https://img.shields.io/badge/sonarqube-126ED3.svg?style=flat-square&logo=sonarqube&logoColor=126ED3&labelColor=f9f9f9" />
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=flat-square&logo=docker&logoColor=2496ED&labelColor=f9f9f9" />
+    <img src="https://img.shields.io/badge/vercel-000000.svg?style=flat-square&logo=vercel&logoColor=000000&labelColor=f9f9f9" />
+    <img src="https://img.shields.io/badge/nginx-009639.svg?style=flat-square&logo=nginx&logoColor=009639&labelColor=f9f9f9" />
+    <br/>
+    <img src="https://img.shields.io/badge/pm2-2B037A.svg?style=flat-square&logo=pm2&logoColor=2B037A&labelColor=f9f9f9" />
+    <img src="https://img.shields.io/badge/apache-D22128.svg?style=flat-square&logo=apache&logoColor=D22128&labelColor=f9f9f9" />
   </div>
 
 ### Datebase
@@ -31,7 +37,14 @@
     <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=flat-square&logo=postgresql&logoColor=4169E1&labelColor=f9f9f9" />
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=f9f9f9" />
   </div>
-  
+
+### k
+  <div>
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=6DB33F&labelColor=f9f9f9" />
+    <img src="https://img.shields.io/badge/aws-4169E1.svg?style=flat-square&logo=aws&logoColor=4169E1&labelColor=f9f9f9" />
+    <img src="https://img.shields.io/badge/java-FE5F50?style=flat-square&logo=java&logoColor=FE5F50&labelColor=f9f9f9" />
+  </div>
+
 ### 🔭 I’m currently working on
 [![YoungMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyougmin&show_icons=true&theme=radical)](https://github.com/kimyougmin/github-readme-stats)
   
