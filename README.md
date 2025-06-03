@@ -6,7 +6,6 @@
   <div>
     <img src="https://img.shields.io/badge/Typescript-%233178C6?style=flat-square&logo=Typescript&logoColor=%233178C6&labelColor=f9f9f9" />
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=%23F7DF1E&labelColor=f9f9f9" />
-    <img src="https://img.shields.io/badge/python-%3776AB?style=flat-square&logo=python&logoColor=%3776AB&labelColor=f9f9f9" />
   </div>
 
 ### Frameworks
@@ -15,7 +14,6 @@
     <img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=%234FC08D&labelColor=f9f9f9" />
     <img src="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=000000&labelColor=f9f9f9"/>
-    <img src="https://img.shields.io/badge/fastapi-009688.svg?&style=flat-square&logo=fastapi&logoColor=009688&labelColor=f9f9f9"/>
   </div>
 
 ### CI/CD & Infrastructure
@@ -38,10 +36,19 @@
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=47A248&labelColor=f9f9f9" />
   </div>
 
-### knowledge
+### Tools
   <div>
+    <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=F05032&labelColor=f9f9f9" />
+    <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=181717&labelColor=f9f9f9" />
+    <img src="https://img.shields.io/badge/figma-FE5F50?style=flat-square&logo=figma&logoColor=FE5F50&labelColor=f9f9f9" />
+  </div>
+
+### Knowledge
+  <div>
+    <img src="https://img.shields.io/badge/fastapi-009688.svg?&style=flat-square&logo=fastapi&logoColor=009688&labelColor=f9f9f9"/>
+    <img src="https://img.shields.io/badge/python-%3776AB?style=flat-square&logo=python&logoColor=%3776AB&labelColor=f9f9f9" />
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=6DB33F&labelColor=f9f9f9" />
-    <img src="https://img.shields.io/badge/aws-4169E1.svg?style=flat-square&logo=aws&logoColor=4169E1&labelColor=f9f9f9" />
+    <img src="https://img.shields.io/badge/aws-181717.svg?style=flat-square&logo=aws&logoColor=181717&labelColor=f9f9f9" />
     <img src="https://img.shields.io/badge/java-FE5F50?style=flat-square&logo=java&logoColor=FE5F50&labelColor=f9f9f9" />
   </div>
 
