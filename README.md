@@ -11,7 +11,7 @@
 ### Frameworks
   <div>
     <img src="https://img.shields.io/badge/NextJs-%20%23000000?style=flat-square&logo=Next.js&logoColor=%20%23000000&labelColor=f9f9f9" />
-    <img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB&labelColor=f9f9f9" />
     <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=flat-square&logo=Vue.js&logoColor=%234FC08D&labelColor=f9f9f9" />
     <img src="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=000000&labelColor=f9f9f9"/>
   </div>
